@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<students>
+    <student id="1">
+        <name>Nguyễn Văn A</name>
+        <address>Đà Nẵng</address>
+        <dateOfBirth>2000-05-15</dateOfBirth>
+    </student>
+    <student id="2">
+        <name>Nguyễn Văn B</name>
+        <address>Quảng Trị</address>
+        <dateOfBirth>1998-10-20</dateOfBirth>
+    </student>
+    <student id="3">
+        <name>Nguyễn Văn C</name>
+        <address>Huế</address>
+        <dateOfBirth>2002-03-08</dateOfBirth>
+    </student>
+</students>
